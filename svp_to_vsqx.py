@@ -1,5 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
+
+# SPDX-License-Identifier: Unlicense
+
 """
 svp_to_vsqx.py —— SVP -> VSQX 转换器（保留 Group 原始位置版本）
 =================================================================
