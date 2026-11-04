@@ -1,7 +1,7 @@
 # svp_to_vsqx.py
 
 将 Synthesizer V Studio 工程文件（`.svp`）转换为 VOCALOID4 工程文件（`.vsqx`），
-保留音符位置、歌词/音素，并将 SVP 的音高曲线（pitchDelta）转换为 VSQX 的
+保留音符位置、歌词/音素，支持保留 SVP 音轨组转换成 VSQX 序列信息，并将 SVP 的音高曲线（pitchDelta）转换为 VSQX 的
 弯音控制器（PBS 固定为 12 半音）。
 
 ## 依赖
